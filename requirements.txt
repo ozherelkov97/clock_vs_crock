@@ -1,0 +1,8 @@
+python 2.7.14 
+(Anaconda: Jupiter Notebook)
+
+PIL 1.1.7
+pandas 0.22.0
+numpy 1.14.3
+scikit_learn 0.19.1
+scikit_image 0.13.1
